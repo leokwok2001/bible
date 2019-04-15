@@ -3,6 +3,7 @@ layout: post
 title:  "安息日學課-第1季-啟示錄-第12課"
 date:   2019-03-23 10:45:11 +0800
 categories: church
+comments: true
 ---
 
 
