@@ -4,7 +4,9 @@ title:  "安息日學課-第1季-家庭四季-第2課"
 date:   2019-04-13 10:45:11 +0800
 categories: church
 comments: true
+tags: church 
 ---
+
 
 ># " 我們的選擇 (2019-04-16)" 
 存心節
