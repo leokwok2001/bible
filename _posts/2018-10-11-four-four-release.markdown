@@ -4,7 +4,7 @@ title:  "安息日學課-第4季合一的關鍵 第4課 release"
 date:   2018-10-26 10:45:11 +0800
 categories: church
 comments: true
-tags:  churce4
+tags:  church
 ---
 
 
