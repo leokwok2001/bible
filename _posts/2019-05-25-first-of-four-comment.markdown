@@ -165,7 +165,7 @@ tags: church
 "live is a game like playing with snake everyday."
 ~~~
 
-~
+
 
 
 
