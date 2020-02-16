@@ -11,7 +11,7 @@ tags: live
 <div id="test"></div>
 <script type="text/javascript">
   var options = {
-    width: 800,
+    width: 600,
     height: 600,
     channel: "leokwok2001",
     
