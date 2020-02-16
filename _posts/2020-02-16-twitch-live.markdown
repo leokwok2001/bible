@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "海光教會 Live"
+title:  "Live"
 date:   2020-02-16 10:45:11 +0800
 categories: church
 comments: true
