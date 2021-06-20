@@ -7,6 +7,8 @@ comments: true
 tags: church 
 ---
 
+
+
 全心節
 ~~~
 箴 言 1:8
@@ -14,6 +16,10 @@ tags: church
 ~~~
 
 - 生活的本質就是一所學校
+
+
+
+
 
 
 
