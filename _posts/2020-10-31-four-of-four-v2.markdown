@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "教育-第5課"
+title:  "教育-第5課1"
 date:   2020-10-31 10:45:11 +0800
 categories: church
 comments: true
