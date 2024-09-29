@@ -1,13 +1,13 @@
 # Site settings
 title: Bible Blog
-url: "http://bible.leo-kwok.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "https://bible.leo-kwok.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
+email: leokwok2001@gmail.com
 author: leo kwok
 #avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 avatar: "//bible.leo-kwok.com/none1.png"
@@ -15,7 +15,7 @@ profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
+  Email: "mailto:leokwok2001@gmail.com"
   GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
@@ -39,7 +39,7 @@ plugins:
  - jemoji
 
 # Build settings
-paginate: 5
+paginate: 99
 paginate_path: "page:num"
 
 highlighter: rouge
