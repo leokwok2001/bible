@@ -12,8 +12,7 @@ tags: church
 林後4:6
 ~~~
 
-asdfsad
-asdfsdf
+
 
 # 星期日 【章顯天父】 25 Oct 2020
 
