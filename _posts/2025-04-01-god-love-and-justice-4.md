@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "富含情感和憐憫的上帝 - 4"
+title:  "富含情感和憐憫的上帝 - 第四課"
 date:   2025-04-01 10:45:11 +0800
 categories: melburne
 comments: true
