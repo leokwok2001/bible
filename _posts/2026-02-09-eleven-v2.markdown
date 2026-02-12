@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "住在此地"
-date:   2026-02-08 08:45:11 +0800
+title:  "住在此地 v2"
+date:   2026-02-09 08:45:11 +0800
 categories: melburne
 comments: true
 tags: melburne 
@@ -9,10 +9,9 @@ tags: melburne
 
 <style>
     red {
-
         color:red;
     }
-    </style>
+</style>
 
 ~~~
 書22；弗6：7；約7：24；民25；箴15：1；彼前3：8、9。
