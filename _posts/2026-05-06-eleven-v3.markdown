@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "與基督同活 v2"
+title:  "與基督同活 v3"
 date:   2026-05-06 08:45:11 +0800
 categories: melburne
 comments: true
